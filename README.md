@@ -1,3 +1,3 @@
 # Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models
 
-Code coming soon (currently under review).
+Code will be released upon paper acceptance (paper currently under review).
