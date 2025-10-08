@@ -92,7 +92,7 @@ $datasets/
 
 ### Step 2 Dataset Partitioning
 
-* Create train/val/test
+* Create train/val/test partitions
 
 ```bash
 # <dataset_name> can take the following values: aid, eurosat, mlrsnet, optimal31, patternnet, resisc45, rsc11, rsicb128, rsicb256
