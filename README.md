@@ -49,7 +49,7 @@ You are ready to start! 🎉
 * The whurs19 dataset is already uploaded to the repository for reference and can be used directly.
 
 
-# Step 1 Dataset Download
+### Step 1 Dataset Download
   
 * The following 6 datasets (eurosat, optimal31, patternnet, resisc45, rsc11, rsicb256) will be automatically downloaded and formatted from Hugging Face using the _run_dataset_download.py_ script.
 
@@ -90,7 +90,7 @@ $datasets/
     └── ...
 ```
 
-# Step 2 Dataset Partitioning
+### Step 2 Dataset Partitioning
 
 * Create train/val/test
 
@@ -115,7 +115,7 @@ $datasets/
       └── <classname>_<id>.jpg
 ```
 
-# Step 3 Dataset Formatting
+### Step 3 Dataset Formatting
 
 * Setup the final dataset format following the format from [CoOp]([https://www.kaggle.com/datasets/jiayuanchengala/aid-scene-classification-datasets](https://github.com/KaiyangZhou/CoOp)).
 
