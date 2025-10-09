@@ -11,8 +11,8 @@ Create a virtual environment and activate it:
 ```bash
 # Example using the virtualenv package on linux
 python3 -m pip install --user virtualenv
-python3 -m virtualenv RS-TransCLIP-venv
-source RS-TransCLIP-venv/bin/activate.csh
+python3 -m virtualenv FSRS-venv
+source FSRS-venv/bin/activate.csh
 ```
 
 Install Pytorch:
@@ -23,8 +23,8 @@ pip3 install torch==2.2.2 torchaudio==2.2.2 torchvision==0.17.2
 Clone GitHub and move to the appropriate directory:
 
 ```bash
-git clone https://github.com/elkhouryk/RS-TransCLIP
-cd RS-TransCLIP
+git clone https://github.com/elkhouryk/FSRS-venv
+cd FSRS-venv
 ```
 
 Install the remaining Python packages requirements:
