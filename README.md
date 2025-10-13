@@ -1,5 +1,6 @@
 # 🔧🔧UNDER CONSTRUCTION🔧🔧
-
+---
+<br>
 # Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models
 
 <a href="https://arxiv.org/abs/2510.07135" style='vertical-align:middle; display:inline;'><img
@@ -14,7 +15,7 @@ Welcome to the GitHub repository for [Few-Shot Adaptation Benchmark for Remote S
 
  <br>
 <br>
-
+---
 ## Updates
 * **Paper uploaded on arXiv. [October 9, 2025]**
 
@@ -30,9 +31,9 @@ We introduce the first structured benchmark to evaluate and compare RSVLMs under
 </p>
 
 
-<br>
-<br>
 
+---
+<br>
 ## Setup 🔧
 
 <ins>NB:</ins> the Python version used is 3.10.12.
@@ -72,9 +73,6 @@ You are ready to start! 🎉
 ---
 
 <br>
-<br>
-
-
 ## Datasets 🗂️
 
 
@@ -169,4 +167,33 @@ $datasets/
       └── <classname>_<id>.jpg
   └── split.json
 ```
-  
+
+---
+  <br>
+## Citations 📚
+
+
+Support our work by citing our paper if you use this repository:
+```
+@misc{khoury2025fewshotadaptationbenchmarkremote,
+      title={Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models}, 
+      author={Karim El Khoury and Maxime Zanella and Christophe De Vleeschouwer and Benoit Macq},
+      year={2025},
+      eprint={2510.07135},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.07135}, 
+}
+```
+
+---
+<br>
+## Contributing 🤝
+
+Feel free to open an issue or pull request if you have any questions or suggestions.
+
+You can also contact us by Email:
+```
+karim.elkhoury@uclouvain.be
+maxime.zanella@uclouvain.be
+```
