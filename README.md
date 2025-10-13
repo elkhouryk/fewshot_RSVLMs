@@ -13,9 +13,9 @@ Welcome to the GitHub repository for [Few-Shot Adaptation Benchmark for Remote S
 
 [K. El Khoury](https://scholar.google.be/citations?user=UU_keGAAAAAJ&hl=fr), [M. Zanella](https://scholar.google.com/citations?user=FIoE9YIAAAAJ&hl=fr&oi=ao), [C. De Vleeschouwer](https://scholar.google.ca/citations?user=xb3Zc3cAAAAJ&hl=en), [B. Macq](https://scholar.google.be/citations?user=H9pGN70AAAAJ&hl=fr)
 
- <br>
 <br>
----
+
+
 ## Updates
 * **Paper uploaded on arXiv. [October 9, 2025]**
 
@@ -31,7 +31,7 @@ We introduce the first structured benchmark to evaluate and compare RSVLMs under
 </p>
 
 
-
+<br>
 
 ## Setup 🔧
 
@@ -69,7 +69,7 @@ pip3 install -r requirements.txt
 
 You are ready to start! 🎉
 
-
+<br>
 ## Datasets 🗂️
 
 
@@ -165,7 +165,7 @@ $datasets/
   └── split.json
 ```
 
-
+<br>
 ## Citations 📚
 
 
@@ -182,7 +182,7 @@ Support our work by citing our paper if you use this repository:
 }
 ```
 
-
+<br>
 ## Contributing 🤝
 
 Feel free to open an issue or pull request if you have any questions or suggestions.
