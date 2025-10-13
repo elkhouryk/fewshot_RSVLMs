@@ -16,10 +16,7 @@ Welcome to the GitHub repository for [Few-Shot Adaptation Benchmark for Remote S
 <br>
 
 
-## Updates
-* **Paper uploaded on arXiv. [October 9, 2025]**
 
-<br><br>
 
 
 We introduce the first structured benchmark to evaluate and compare RSVLMs under a few-shot setting.
@@ -30,6 +27,10 @@ We introduce the first structured benchmark to evaluate and compare RSVLMs under
   <em>Figure 1: Performance evaluation of four vision-language models (<strong><span style="color: #134A82;">GeoRSCLIP</span></strong>, <strong><span style="color: #DC2E2E;">RemoteCLIP</span></strong>, <strong><span style="color: #E19838;">SkyCLIP</span></strong>, and <strong><span style="color: #A582E7;">CLIP</span></strong>) using five different few-shot adaptation methods.</em>
 </p>
 
+<br>
+
+## Updates
+* **Paper uploaded on arXiv. [October 9, 2025]**
 
 <br>
 
