@@ -7,7 +7,7 @@ import random
 
 # Set up argument parser
 parser = argparse.ArgumentParser(description="Split dataset into train, validation, and test sets.")
-parser.add_argument('--dataset_name', type=str, choices=['aid', 'eurosat', 'mlrsnet', 'optimal31', 'patternnet', 'resisc45', 'rsc11', 'rsicb128', 'rsicb256','whurs19'], help='Name of the dataset')
+parser.add_argument('--dataset_name', type=str, choices=['aid', 'eurosat', 'mlrsnet', 'optimal31', 'patternnet', 'resisc45', 'rsc11', 'rsicb128', 'rsicb256','whurs'], help='Name of the dataset')
 
 # Parse arguments
 args = parser.parse_args()
@@ -77,5 +77,6 @@ for class_name, files in class_files.items():
         src = os.path.join(base_path, file)
         dst = os.path.join(test_path, file)
         shutil.move(src, dst)
+
 
 print("Files successfully split into train, validation, and test directories!")
