@@ -170,6 +170,34 @@ $datasets/
 
 <br>
 
+## User Manual 📘
+
+To run few-shot training, please refer to the respective repositories for each method:
+
+- [**CoOp**](https://github.com/KaiyangZhou/CoOp): Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22).
+- [**MaPLe**](https://github.com/muzairkhattak/multimodal-prompt-learning): Multi-modal Prompt Learning (CVPR 2023).
+- [**TaskRes**](https://github.com/geekyutao/TaskRes/tree/main): Task Residual for Tuning Vision-Language Models (CVPR 2023).
+- [**Tip-Adapter**](https://github.com/gaopengcuhk/Tip-Adapter): Training-free Adaptation of CLIP for Few-Shot Classification (ECCV 2022).
+- [**CLIP-LoRA**](https://github.com/MaxZanella/CLIP-LoRA): Low-Rank Few-Shot Adaptation of Vision-Language Models (CVPRW 2024).
+
+This repository provides the adapted files necessary to account for benchmark backbones and datasets, including:
+
+- `./clip/`
+- `./configs/trainers/`
+- `./trainers/`
+- `./scripts/`
+
+
+## Contributing 🤝
+
+Feel free to open an issue or pull request if you have any questions or suggestions.
+
+You can also contact us by Email:
+```
+karim.elkhoury@uclouvain.be
+maxime.zanella@uclouvain.be
+```
+
 ## Citations 📚
 
 
@@ -187,13 +215,3 @@ Support our work by citing our paper if you use this repository:
 ```
 
 <br>
-
-## Contributing 🤝
-
-Feel free to open an issue or pull request if you have any questions or suggestions.
-
-You can also contact us by Email:
-```
-karim.elkhoury@uclouvain.be
-maxime.zanella@uclouvain.be
-```
