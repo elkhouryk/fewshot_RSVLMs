@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # custom config
-DATA=/export/DATA/elkhouryk/FSRS/CoOp/datasets/
+DATA=../../datasets/
 TRAINER=CoOp
 
 DATASET=$1
