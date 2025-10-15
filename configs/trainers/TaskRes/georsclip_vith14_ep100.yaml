@@ -28,4 +28,4 @@ TRAIN:
 
 MODEL:
   BACKBONE:
-    NAME: "CLIP_ViT-B/32"
+    NAME: "GeoRSCLIP_ViT-H/14"
