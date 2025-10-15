@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # custom config
-DATA=/export/DATA/elkhouryk/FSRS/CoOp/datasets/
+DATA=../../datasets/
 TRAINER=ZeroshotCLIP
 DATASET=$1
 CFG=$2  # rn50, rn101, vit_b32 or vit_b16
