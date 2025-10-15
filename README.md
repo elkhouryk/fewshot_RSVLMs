@@ -1,6 +1,3 @@
-# 🔧🔧UNDER CONSTRUCTION🔧🔧
-
-
 # Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models
 
 <a href="https://arxiv.org/abs/2510.07135" style='vertical-align:middle; display:inline;'><img
