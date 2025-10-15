@@ -28,9 +28,9 @@ NEW_CLASSNAMES = {
 
 
 @DATASET_REGISTRY.register()
-class whurs19(DatasetBase):
+class whurs(DatasetBase):
 
-    dataset_dir = "whurs19"
+    dataset_dir = "whurs"
 
     def __init__(self, cfg):
         root = os.path.abspath(os.path.expanduser(cfg.DATASET.ROOT))
