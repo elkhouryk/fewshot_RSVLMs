@@ -27,7 +27,8 @@ We introduce the first structured benchmark to evaluate and compare RSVLMs under
 <br>
 
 ## Updates
-* **Paper uploaded on arXiv. [October 9, 2025]**
+* **Paper accepted to IGARSS 2026. [April 3, 2026]**
+* Paper uploaded on arXiv. [October 9, 2025]
 
 <br>
 
